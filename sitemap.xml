@@ -2,17 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/posts/my-first-post/</loc>
+    <loc>https://denisenepraunig.github.io/tags/berlin/</loc>
     <lastmod>2023-10-07T16:38:49+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://denisenepraunig.github.io/tags/bowl/</loc>
     <lastmod>2023-10-07T16:38:49+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://denisenepraunig.github.io/posts/camacrew-skatepark-berlin-buch-germany/</loc>
     <lastmod>2023-10-07T16:38:49+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://denisenepraunig.github.io/categories/</loc>
+    <lastmod>2023-10-07T16:38:49+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://denisenepraunig.github.io/tags/germany/</loc>
+    <lastmod>2023-10-07T16:38:49+02:00</lastmod>
+  </url><url>
+    <loc>https://denisenepraunig.github.io/posts/</loc>
+    <lastmod>2023-10-07T16:38:49+02:00</lastmod>
+  </url><url>
+    <loc>https://denisenepraunig.github.io/categories/skateparks/</loc>
+    <lastmod>2023-10-07T16:38:49+02:00</lastmod>
+  </url><url>
+    <loc>https://denisenepraunig.github.io/</loc>
+    <lastmod>2023-10-07T16:38:49+02:00</lastmod>
+  </url><url>
+    <loc>https://denisenepraunig.github.io/tags/</loc>
+    <lastmod>2023-10-07T16:38:49+02:00</lastmod>
   </url>
 </urlset>

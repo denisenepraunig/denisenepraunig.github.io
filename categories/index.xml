@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
-    <link>https://example.org/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <title>Categories on Surfskate Location Guide by Denise</title>
+    <link>https://denisenepraunig.github.io/categories/</link>
+    <description>Recent content in Categories on Surfskate Location Guide by Denise</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Oct 2023 16:38:49 +0200</lastBuildDate><atom:link href="https://denisenepraunig.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Skateparks</title>
+      <link>https://denisenepraunig.github.io/categories/skateparks/</link>
+      <pubDate>Sat, 07 Oct 2023 16:38:49 +0200</pubDate>
+      
+      <guid>https://denisenepraunig.github.io/categories/skateparks/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

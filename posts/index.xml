@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>https://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on Surfskate Location Guide by Denise</title>
+    <link>https://denisenepraunig.github.io/posts/</link>
+    <description>Recent content in Posts on Surfskate Location Guide by Denise</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Oct 2023 16:38:49 +0200</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Oct 2023 16:38:49 +0200</lastBuildDate><atom:link href="https://denisenepraunig.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
-      <link>https://example.org/posts/my-first-post/</link>
+      <title>Camacrew Skatepark Berlin Buch - Germany</title>
+      <link>https://denisenepraunig.github.io/posts/camacrew-skatepark-berlin-buch-germany/</link>
       <pubDate>Sat, 07 Oct 2023 16:38:49 +0200</pubDate>
       
-      <guid>https://example.org/posts/my-first-post/</guid>
-      <description>Hello World! This blog will be about surfskating in Berlin in bowls and pumptrack and in Europe.</description>
+      <guid>https://denisenepraunig.github.io/posts/camacrew-skatepark-berlin-buch-germany/</guid>
+      <description>The skatepark in Berlin Buch is brand new and has a bowl and a street section. The bowl has coping all around. The whole area is quite nice as is surounded by greenery and trees. The street section has a half bowl which is not as high as the bowl itself, so you can practice some drop-ins there. A bit further up is a smaller quarter which is also good to practice some drop-ins.</description>
     </item>
     
   </channel>

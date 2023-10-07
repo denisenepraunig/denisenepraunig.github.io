@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>https://example.org/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on Surfskate Location Guide by Denise</title>
+    <link>https://denisenepraunig.github.io/tags/</link>
+    <description>Recent content in Tags on Surfskate Location Guide by Denise</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Oct 2023 16:38:49 +0200</lastBuildDate><atom:link href="https://denisenepraunig.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Berlin</title>
+      <link>https://denisenepraunig.github.io/tags/berlin/</link>
+      <pubDate>Sat, 07 Oct 2023 16:38:49 +0200</pubDate>
+      
+      <guid>https://denisenepraunig.github.io/tags/berlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bowl</title>
+      <link>https://denisenepraunig.github.io/tags/bowl/</link>
+      <pubDate>Sat, 07 Oct 2023 16:38:49 +0200</pubDate>
+      
+      <guid>https://denisenepraunig.github.io/tags/bowl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Germany</title>
+      <link>https://denisenepraunig.github.io/tags/germany/</link>
+      <pubDate>Sat, 07 Oct 2023 16:38:49 +0200</pubDate>
+      
+      <guid>https://denisenepraunig.github.io/tags/germany/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
