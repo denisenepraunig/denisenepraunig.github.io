@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/denise.nepraunig/Documents/git/denisenepraunig.github.io",
+	"sourceRoot": "/Users/denise.nepraunig/Documents/git/hugo-denisenepraunig.github.io",
 	"sources": [
 		"ananke/css/main.css"
 	],
